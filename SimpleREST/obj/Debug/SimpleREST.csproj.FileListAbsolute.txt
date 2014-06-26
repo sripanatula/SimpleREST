@@ -1,0 +1,17 @@
+C:\workspace\SimpleREST\output\SimpleREST.dll.config
+C:\workspace\SimpleREST\output\SimpleREST.dll
+C:\workspace\SimpleREST\output\SimpleREST.pdb
+C:\workspace\SimpleREST\SimpleREST\obj\Debug\SimpleREST.csprojResolveAssemblyReference.cache
+C:\workspace\SimpleREST\SimpleREST\obj\Debug\SimpleREST.dll
+C:\workspace\SimpleREST\SimpleREST\obj\Debug\SimpleREST.pdb
+C:\workspace\SimpleREST\SimpleREST\bin\SimpleREST.dll.config
+C:\workspace\SimpleREST\SimpleREST\bin\SimpleREST.dll
+C:\workspace\SimpleREST\SimpleREST\bin\SimpleREST.pdb
+C:\workspace\SimpleREST\SimpleREST\bin\Newtonsoft.Json.dll
+C:\workspace\SimpleREST\SimpleREST\bin\System.Net.Http.Formatting.dll
+C:\workspace\SimpleREST\SimpleREST\bin\System.Web.Http.dll
+C:\workspace\SimpleREST\SimpleREST\bin\System.Web.Http.WebHost.dll
+C:\workspace\SimpleREST\SimpleREST\bin\Newtonsoft.Json.xml
+C:\workspace\SimpleREST\SimpleREST\bin\System.Net.Http.Formatting.xml
+C:\workspace\SimpleREST\SimpleREST\bin\System.Web.Http.xml
+C:\workspace\SimpleREST\SimpleREST\bin\System.Web.Http.WebHost.xml
